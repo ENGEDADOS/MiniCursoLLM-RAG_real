@@ -9,7 +9,7 @@ O conteúdo aqui disponibilizado inclui exemplos, códigos, dados e instruções
 ---
 
 # Para rodar o script siga os seguintes passos (Linux):
-1. Crie um venv
+1. Crie um venv que se chame 'minicuro_llm'
    
 2. Ative o venv
 
