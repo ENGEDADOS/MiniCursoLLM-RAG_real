@@ -9,11 +9,14 @@ O conteúdo aqui disponibilizado inclui exemplos, códigos, dados e instruções
 ---
 
 # Para rodar o script siga os seguintes passos (Linux):
-
-1. pip install -r requirements
+1. Crie um venv
    
-2. atualize o arquivo example.env com seus dados
+2. Ative o venv
 
-3. execute com python o arquivo rag_example.py
+3. pip install -r requirements
+   
+4. atualize o arquivo example.env com seus dados
+
+5. execute com python o arquivo rag_example.py
 
 > Desenvolvido por [ENGEDADOS] para fins educacionais.
